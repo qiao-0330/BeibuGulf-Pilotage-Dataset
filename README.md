@@ -18,7 +18,7 @@ All instances in this repository are **synthetically generated** based on:
 ### Repository Structure
 
 - `/instances/` — All test instances used in the case study  
-- `/generation_code/` — Python scripts used to generate the instances (optional)  
+- `/generation_code/` — Python scripts used to generate the instances   
 - `/docs/` — Data dictionary and generation method
 
 ### Instance Naming Convention
